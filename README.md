@@ -17,4 +17,4 @@ A new entry called "Table Properties Editor" will be available on *.properties f
 License
 -------
 
-<a href="https://raw.githubusercontent.com/mv2a/SimplePropertiesEditor/master/LICENSE">MIT</a>
+<a href="https://raw.githubusercontent.com/mv2a/SimplePropertiesEditor/master/LICENSE">GPL3</a>
