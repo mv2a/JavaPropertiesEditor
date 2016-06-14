@@ -13,7 +13,7 @@ public class Activator extends AbstractUIPlugin {
     /**
      * The plug-in ID.
      */
-    public static final String PLUGIN_ID = "SimplePropertiesEditor";
+    public static String PLUGIN_ID;
 
     /**
      * The shared instance.
@@ -30,6 +30,7 @@ public class Activator extends AbstractUIPlugin {
     public void start(BundleContext context) throws Exception {
         super.start(context);
         plugin = this;
+        Activator.PLUGIN_ID = context.getBundle().getSymbolicName();
     }
 
     @Override
