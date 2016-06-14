@@ -2,7 +2,7 @@
 <feature
       id="net.leaotech.javapropertieseditor.feature"
       label="Java Properties Editor"
-      version="1.0.5"
+      version="1.0.6"
       provider-name="leaotech.net">
 
    <description url="https://github.com/mv2a/JavaPropertiesEditor">

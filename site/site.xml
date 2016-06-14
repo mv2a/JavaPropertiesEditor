@@ -3,5 +3,8 @@
    <description name="Java Properties Editor" url="http://mv2a.github.io/JavaPropertiesEditor/updates">
       Eclipse plug-in for editing Java properties files with JFace TableViewer
    </description>
-   <feature url="features/net.leaotech.javapropertieseditor.feature_1.0.5.jar" id="net.leaotech.javapropertieseditor.feature" version="1.0.5"/>
+   <feature url="features/net.leaotech.javapropertieseditor.feature_1.0.6.jar" id="net.leaotech.javapropertieseditor.feature" version="1.0.6">
+      <category name="editors"/>
+   </feature>
+   <category-def name="editors" label="Editors"/>
 </site>
