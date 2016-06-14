@@ -1,7 +1,7 @@
 {
   "name": "Java Properties Editor (JFace TableViewer)",
   "tagline": "Eclipse plug-in for editing Java properties files using JFace TableViewer.",
-  "body": "Installation\r\n------------\r\n\r\nClick \"Help -> Install new software\" and paste update site URL:<br>\r\nhttp://mv2a.github.io/JavaPropertiesEditor/updates/\r\n\r\nLicense\r\n-------\r\n\r\n<a href=\"https://raw.githubusercontent.com/mv2a/JavaPropertiesEditor/master/LICENSE\">MIT</a>\r\n",
+  "body": "Installation\r\n------------\r\n\r\nClick \"Help -> Install new software\" and paste update site URL:<br>\r\nhttp://mv2a.github.io/JavaPropertiesEditor/updates/\r\n\r\nUsage\r\n-----\r\n\r\nA new entry named \"Table Properties Editor\" will be available on *.properties files under the \"Open With\" context menu entry, Project or Package Explorer.\r\n\r\nLicense\r\n-------\r\n\r\n<a href=\"https://raw.githubusercontent.com/mv2a/SimplePropertiesEditor/master/LICENSE\">GPL3</a>\r\n\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
