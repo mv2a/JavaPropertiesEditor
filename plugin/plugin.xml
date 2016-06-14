@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?eclipse version="3.4"?>
 <plugin>
-
    <extension
          point="org.eclipse.ui.editors">
       <editor
-            name="Simple Properties Editor"
+            name="Table Properties Editor"
             extensions="properties"
             icon="icons/icon.gif"
-            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="pl.gildur.simplepropertieseditor.editor.SimplePropertiesEditor"
-            id="pl.gildur.simplepropertieseditor.editor.SimplePropertiesEditor">
+            contributorClass="org.eclipse.ui.editors.text.TextEditorActionContributor"
+            class="net.leaotech.propertieseditor.TablePropertiesEditor"
+            id="net.leaotech.propertieseditor.TablePropertiesEditor">
       </editor>
    </extension>
-
 </plugin>

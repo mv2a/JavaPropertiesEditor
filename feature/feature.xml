@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="pl.gildur.simplepropertieseditor.feature"
-      label="Simple Properties Editor"
+      id="net.leaotech.javapropertieseditor.feature"
+      label="Java Properties Editor"
       version="1.0.5"
-      provider-name="Piotr Wolny">
+      provider-name="leaotech.net">
 
-   <description url="https://github.com/gildur/SimplePropertiesEditor">
-      Eclipse plug-in for editing Java properties files, automatically converts non-ASCII characters to unicode escape sequences.
+   <description url="https://github.com/mv2a/JavaPropertiesEditor">
+      Eclipse plug-in for editing Java properties files using JFace TableViewer.
    </description>
 
    <copyright>
-      Copyright (c) 2010-2014 Piotr Wolny
+      Copyright (c) 2014-2016 Tiago Leao (leaotech.net)
    </copyright>
 
    <license url="">
@@ -37,11 +37,11 @@ OTHER DEALINGS IN THE SOFTWARE.
    </license>
 
    <url>
-      <update label="Simple Properties Editor" url="http://gildur.github.io/SimplePropertiesEditor/updates"/>
+      <update label="Java Properties Editor" url="http://mv2a.github.io/JavaPropertiesEditor/updates"/>
    </url>
 
    <plugin
-         id="pl.gildur.simplepropertieseditor"
+         id="net.leaotech.javapropertieseditor"
          download-size="0"
          install-size="0"
          version="0.0.0"
